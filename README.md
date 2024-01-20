@@ -48,6 +48,8 @@ This Chart Generator project is authored by Aymane Sadiki.
 
 - GitHub: [Aymane Sadiki GitHub](https://github.com/AymanSdk)
 
+- For live Demo [Click Here](https://sensational-dusk-46996f.netlify.app)
+
 Feel free to explore and contribute to the project on GitHub.
 
 ---
