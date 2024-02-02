@@ -47,7 +47,7 @@ To use the Chart Generator, follow these steps:
 This Chart Generator project is authored by Aymane Sadiki.
 
 - GitHub: [Aymane Sadiki GitHub](https://github.com/AymanSdk)
-
+- GitHub: [Abdelhadi bousaadah GitHub](https://github.com/abdelhadia72)
 - For live Demo [Click Here](https://sensational-dusk-46996f.netlify.app)
 
 Feel free to explore and contribute to the project on GitHub.
